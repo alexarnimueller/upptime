@@ -1,41 +1,5 @@
 [
   {
-    "name": "Google",
-    "url": "https://www.google.com",
-    "icon": "https://icons.duckduckgo.com/ip3/www.google.com.ico",
-    "slug": "google",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 76,
-    "timeDay": 76,
-    "timeWeek": 76,
-    "timeMonth": 76,
-    "timeYear": 76,
-    "dailyMinutesDown": {}
-  },
-  {
-    "name": "Wikipedia",
-    "url": "https://en.wikipedia.org",
-    "icon": "https://icons.duckduckgo.com/ip3/en.wikipedia.org.ico",
-    "slug": "wikipedia",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 30,
-    "timeDay": 30,
-    "timeWeek": 30,
-    "timeMonth": 30,
-    "timeYear": 30,
-    "dailyMinutesDown": {}
-  },
-  {
     "name": "Hacker News",
     "url": "https://news.ycombinator.com",
     "icon": "https://icons.duckduckgo.com/ip3/news.ycombinator.com.ico",
@@ -46,11 +10,51 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 128,
-    "timeDay": 128,
-    "timeWeek": 128,
-    "timeMonth": 128,
-    "timeYear": 128,
+    "time": 272,
+    "timeDay": 272,
+    "timeWeek": 272,
+    "timeMonth": 272,
+    "timeYear": 272,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "Erikas",
+    "url": "https://erikas.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/erikas.ch.ico",
+    "slug": "erikas",
+    "status": "down",
+    "uptime": "18.67%",
+    "uptimeDay": "18.67%",
+    "uptimeWeek": "18.67%",
+    "uptimeMonth": "18.67%",
+    "uptimeYear": "18.67%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
+  },
+  {
+    "name": "IAFPA-DB",
+    "url": "https://iafpa-db.ch",
+    "icon": "https://icons.duckduckgo.com/ip3/iafpa-db.ch.ico",
+    "slug": "iafpa-db",
+    "status": "down",
+    "uptime": "21.07%",
+    "uptimeDay": "21.07%",
+    "uptimeWeek": "21.07%",
+    "uptimeMonth": "21.07%",
+    "uptimeYear": "21.07%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2024-01-07": 0
+    }
   }
 ]
