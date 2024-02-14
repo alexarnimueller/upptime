@@ -25,9 +25,9 @@
     "url": "https://erikas.ch",
     "icon": "https://icons.duckduckgo.com/ip3/erikas.ch.ico",
     "slug": "erikas",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -37,6 +37,7 @@
     "timeMonth": 519,
     "timeYear": 537,
     "dailyMinutesDown": {
+      "2024-02-14": 0,
       "2024-01-07": 2
     }
   },
@@ -45,19 +46,19 @@
     "url": "https://iafpa-db.ch",
     "icon": "https://icons.duckduckgo.com/ip3/iafpa-db.ch.ico",
     "slug": "iafpa-db",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
-    "time": 898,
-    "timeDay": 2233,
-    "timeWeek": 1057,
-    "timeMonth": 893,
-    "timeYear": 898,
+    "status": "up",
+    "uptime": "99.98%",
+    "uptimeDay": "99.29%",
+    "uptimeWeek": "99.90%",
+    "uptimeMonth": "99.98%",
+    "uptimeYear": "99.98%",
+    "time": 1001,
+    "timeDay": 3668,
+    "timeWeek": 1563,
+    "timeMonth": 1024,
+    "timeYear": 1001,
     "dailyMinutesDown": {
-      "2024-02-14": 0,
+      "2024-02-14": 10,
       "2024-01-07": 2
     }
   }
